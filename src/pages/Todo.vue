@@ -14,6 +14,6 @@ export default defineComponent({
 
 <template>
 	<q-page>
-		<Todo title="Home Page" />
+		<Todo title="Todo Page" />
 	</q-page>
 </template>
